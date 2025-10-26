@@ -18,3 +18,6 @@ def get_random_ayah():
 if __name__ == "__main__":
     a = get_random_ayah()
     print(f"{a['english']}\n{a['translation']}\n{a['reference']}")
+
+
+print("this is a print statement")
