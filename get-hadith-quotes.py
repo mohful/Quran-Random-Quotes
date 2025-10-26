@@ -1,0 +1,1 @@
+print("This gets hadith quotes")
